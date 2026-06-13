@@ -1,0 +1,11 @@
+{
+    "description": "Fatnet Discord bot page",
+    "domain": "is-a.dev",
+    "subdomain": "fatnet",
+    "owner": {
+        "username": "fat1vo"
+    },
+    "record": {
+        "CNAME": "demonstrate-condos-cache-linear.trycloudflare.com"
+    }
+}
